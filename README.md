@@ -40,6 +40,5 @@ Designed for educational or small-scale use, it helps users understand the basic
 For questions, collaborations, or project inquiries:
 
 **Anila Salman**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
+Email: aneylasalman85@gmail.com  
